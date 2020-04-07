@@ -12,14 +12,16 @@
 
 
     3.1 How many product one vendor have (A rough measure of vendor size)
+    
     3.2 What's the popularity of one vendor_geohash (# of vendor in one vendor_geohash)
+    
     3.3 Wheather the product have a description or not (boolean)
+    
     3.4 Length of the Product name & Length of the Product description
+    
     3.5 Create new Features based on above NLP anlysis
         * How many popular key words the product name contains
         * How many popular key words the product description contains
-    
-    
     
 
 4. Build Predictive Models & Validation
