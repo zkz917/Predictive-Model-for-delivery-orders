@@ -1,4 +1,7 @@
 # Predictive-Model-for-delivery-orders
+ #### Example:
+ I am a vendor and one day I come up with a idea to add a new item called "Chicekn Fired Rice" to my menu. But I am not sure whether customer will like it or not. So, I can use this model to predict the orders. If the result is about 100 orders/month, I will feel confident about this idea. If the result shows only 10 orders/month, I will need to sleep on this and reconsider my choice. At the mean time, by the corelation chart here is the model, I will know which feature will mostly effect the orders, so I can act on this and make some changes to product name and description to gain more orders. 
+    
 
 **Solutions:**
 
@@ -23,7 +26,7 @@
         * How many popular key words the product name contains
         
         * How many popular key words the product description contains
-    
+        
 
 4. **Build Predictive Models & Validation**
 5. **Future improvements**
