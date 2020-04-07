@@ -6,9 +6,9 @@
 
 
 **Steps:**
-1. Import Libs & Data
-2. Data Exploration & Cleaning
-3. Feature Engineering
+1. **Import Libs & Data**
+2. **Data Exploration & Cleaning**
+3. **Feature Engineering**
 
     3.1 How many product one vendor have (A rough measure of vendor size)
     
@@ -25,12 +25,12 @@
         * How many popular key words the product description contains
     
 
-4. Build Predictive Models & Validation
-5. Future improvements
+4. **Build Predictive Models & Validation**
+5. **Future improvements**
 
 **Future Improvements**
 
-1. Put more time and effort to feature engineering & data cleaning.
+1. **Put more time and effort to feature engineering & data cleaning.**
 
 
     1.1 Use geo location data to cluster data and for each cluster we can generate corresponding features. 
@@ -50,7 +50,7 @@
 
 
 
-2. Tuning the model.
+2. **Tuning the model**.
 
 
     2.1 Cross-validtion
@@ -60,3 +60,5 @@
     2.3 Try more models and build ensemble models.
     
     2.4 Try Lighgbm with categorical data to see the performance.
+
+3. **Add test cases for help functions in the notebook**
