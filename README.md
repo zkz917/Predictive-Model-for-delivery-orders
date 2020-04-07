@@ -10,7 +10,6 @@
 2. Data Exploration & Cleaning
 3. Feature Engineering
 
-
     3.1 How many product one vendor have (A rough measure of vendor size)
     
     3.2 What's the popularity of one vendor_geohash (# of vendor in one vendor_geohash)
@@ -20,7 +19,9 @@
     3.4 Length of the Product name & Length of the Product description
     
     3.5 Create new Features based on above NLP anlysis
+    
         * How many popular key words the product name contains
+        
         * How many popular key words the product description contains
     
 
@@ -53,6 +54,9 @@
 
 
     2.1 Cross-validtion
+    
     2.2 Grid-search to tune parameters
+    
     2.3 Try more models and build ensemble models.
+    
     2.4 Try Lighgbm with categorical data to see the performance.
